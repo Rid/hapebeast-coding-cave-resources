@@ -1,0 +1,2 @@
+# Don't fail on line length limit of 80 chars
+MD013: false
