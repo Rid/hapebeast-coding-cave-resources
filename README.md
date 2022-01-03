@@ -44,11 +44,27 @@ hi.
 
 An object-oriented programming language commonly used within web browsers.
 
-#### Package Managers ####
+- [TypeScript](https://www.typescriptlang.org/) - A superset of the JavaScript language that compiles to JavaScript.
 
-- [npm](https://docs.npmjs.com/cli/v8/commands/npm) - JavaScript Package Manager
+- Popular Frameworks and Libraries:
 
-- [yarn](https://yarnpkg.com/) - 
+  - [angular](https://github.com/angular/angular) - A development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+
+  - [react](https://reactjs.org/) - A JavaScript library for building user interfaces.
+
+  - [react native](https://reactnative.dev/) - A framework that brings React's declarative UI framework to iOS and Android.
+
+  - vue
+
+  - meteor
+
+  - svelte
+
+- Package Managers:
+
+  - [npm](https://docs.npmjs.com/cli/v8/commands/npm) - JavaScript Package Manager.
+
+  - [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
 ### C++ ###
 
