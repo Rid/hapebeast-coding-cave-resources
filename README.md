@@ -112,10 +112,21 @@ Frameworks and Libraries:
 - [vue](https://github.com/vuejs/vue) - A progressive framework for building user interfaces on the web.
 - [svelte](https://github.com/sveltejs/svelte) - A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
+Data Visualization:
+
+- [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+
 Package Managers:
 
 - [npm](https://docs.npmjs.com/cli/v8/commands/npm) - JavaScript Package Manager.
 - [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
+
+Testing Frameworks:
+
+- [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun JavaScript test framework for node.js & the browser.
+- [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
+- [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 
 QA Tools:
 
