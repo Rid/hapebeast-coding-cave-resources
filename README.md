@@ -10,13 +10,11 @@ This is a list of useful resources for software development and programming in g
 
 I hope you find something useful that helps you in developing your career or finishing your personal projects!
 
-I am by no means an expert on all or any of these topics, so if you would like to add to this list (or remove anything less relevant from the list), check out `CONTRIBUTING.md` or ping me on discord (`#! donutboy | HAPEBEAST`). HAPES TOGETHER STRONG!
-
 Also, if your havent checked out the [pinned Notion page](https://hapebeast.notion.site/hapebeast/HAPEBEAST-coding-cave-28adceeed4c64dac85ccdb36216f81f9) yet, please do. It has very helpful and beginner friendly guides on various topics written by other HAPES.
 
 ## Git ##
 
-I'm putting this at the top because it's one of the most useful skills you should have. If you are collaborating with other programmers, even if you're just starting out, I can almost guarantee you will use git at some point.
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
 - [Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet#readme) - Git cheat sheet that saves you from learning all the commands by heart.
 
@@ -218,3 +216,9 @@ Tutorials and Learning:
 ## Machine Learning ##
 
 ## Web 3.0 ##
+
+## Contributing ##
+
+I am by no means an expert on all or any of these topics, so if you would like to add to this list (or remove anything less relevant from the list), check out `CONTRIBUTING.md` or ping me on discord (`#! donutboy | HAPEBEAST`). HAPES TOGETHER STRONG!
+
+This resource was inspired by [awesome](https://github.com/sindresorhus/awesome).
