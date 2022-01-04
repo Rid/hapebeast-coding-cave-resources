@@ -10,15 +10,11 @@ This is a list of useful resources for software development and programming in g
 
 I hope you find something useful that helps you in developing your career or finishing your personal projects!
 
-If you would like to add to this list, check out `CONTRIBUTING.md` or ping me on discord (`#! donutboy | HAPEBEAST`). HAPES TOGETHER STRONG!
+I am by no means an expert on all or any of these topics, so if you would like to add to this list (or remove anything less relevant from the list), check out `CONTRIBUTING.md` or ping me on discord (`#! donutboy | HAPEBEAST`). HAPES TOGETHER STRONG!
 
 Also, if your havent checked out the [pinned Notion page](https://hapebeast.notion.site/hapebeast/HAPEBEAST-coding-cave-28adceeed4c64dac85ccdb36216f81f9) yet, please do. It has very helpful and beginner friendly guides on various topics written by other HAPES.
 
 ## Git ##
-
-```text
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
-```
 
 I'm putting this at the top because it's one of the most useful skills you should have. If you are collaborating with other programmers, even if you're just starting out, I can almost guarantee you will use git at some point.
 
@@ -96,7 +92,7 @@ Testing:
 
 - [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
 
-Tutorials:
+Tutorials and Guides:
 
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org/)
@@ -132,12 +128,58 @@ Articles, Tutorials and Reads:
 
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles on how JavaScript works under the hood.
 - [Web-workers for multi-threading](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Tutorial on adding multi-threading to JavaScript.
-- [this keyword](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Everything you need to know about the `this` keyword.****
+- [this keyword](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Everything you need to know about the `this` keyword.
 - [JS Tutorials](https://hackr.io/tutorials/learn-javascript) - List of popular JavaScript tutorials
 
 ### Solidity ###
 
 ### Java ###
+
+[Java](https://www.java.com/en/) is a programming language and computing platform used to power a large share of today’s digital world, by providing the reliable platform on which many services and applications are built.
+
+[Java Development Kit (JDK)](https://java.com/en/download/help/develop.html) - Includes the Java Runtime Environment, the Java compiler and the Java APIs.
+
+GUI:
+
+- [JavaFX](https://wiki.openjdk.java.net/display/OpenJFX/Main) - Successor of Swing.
+- [Scene Builder](https://gluonhq.com/products/scene-builder/) - Visual layout tool for JavaFX applications.
+- [SWT](https://www.eclipse.org/swt/) - Graphical widget toolkit.
+
+REST Frameworks:
+
+- [Spark](http://sparkjava.com) - Sinatra inspired framework.
+
+Frameworks:
+
+- [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
+- [JUnit](https://junit.org/junit5/) - A common testing framework.
+
+QA Tools:
+
+- [Mockito](https://github.com/mockito/mockito) - A mocking framework that lets you write tests with a clean and simple API.
+- [Clover](https://www.atlassian.com/software/clover) - Relies on source-code instrumentation instead of bytecode instrumentation.
+- [Cobertura](https://cobertura.github.io/cobertura/) - Relies on offline (or static) bytecode instrumentation and class loading to collect code coverage metrics. (GPL-2.0-only).
+
+Caching:
+
+- [Ehcache](http://www.ehcache.org) - Distributed general-purpose cache.
+
+Build:
+
+- [Apache Maven](https://maven.apache.org) - A declarative build and dependency management that favors convention over configuration.
+- [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+
+Game Development:
+
+- [FXGL](https://almasb.github.io/FXGL/) - JavaFX Game Development Framework.
+- [libGDX](https://libgdx.com) - All-round cross-platform, high-level framework.
+- [LWJGL](https://www.lwjgl.org) - Robust framework that abstracts libraries like OpenGL/CL/AL.
+
+Links and Tutorials:
+
+- [Guru99 Java Tutorials](https://www.guru99.com/java-tutorial.html)
+- [Google Java Style](https://google.github.io/styleguide/javaguide.html) - Google's coding standard for Java.
+- [Java Algorithms and Clients](https://algs4.cs.princeton.edu/code) - Java programs covering various algorithms and clients.
 
 ### C# ###
 
@@ -163,7 +205,6 @@ Tutorials and Learning:
 
 - [Easy Rust](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
 - [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
-- [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 - [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
 - [Rustlings](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
