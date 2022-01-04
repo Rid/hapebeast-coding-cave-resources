@@ -6,7 +6,7 @@ A curated list of resources for the HAPEBEAST `#coding-cave` channel
 
 ## Preface ##
 
-This is a list of useful resources for software development and programming in general. These resources are targetted at the most common questions and topics in the `#coding-cave` channel. I've also added resources that I think are the are most commonly used in the industry and/or are useful for development in the software industry.
+This is a list of useful resources for software development and programming in general. These resources are targetted at the most common questions and topics in the `#coding-cave` channel. I've also added resources that I think are the are most commonly used in the industry and/or are useful for development in the software industry. I've tried to keep the list concise and precise for less experienced programmers. For more resources on even more advanced topics, checkout [awesome](https://github.com/sindresorhus/awesome).
 
 I hope you find something useful that helps you in developing your career or finishing your personal projects!
 
