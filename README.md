@@ -135,13 +135,38 @@ Articles, Tutorials and Reads:
 - [this keyword](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Everything you need to know about the `this` keyword.****
 - [JS Tutorials](https://hackr.io/tutorials/learn-javascript) - List of popular JavaScript tutorials
 
-### C++ ###
+### Solidity ###
+
+### Java ###
 
 ### C# ###
 
-### Solidity ###
+### C++ ###
 
 ### Rust ###
+
+[Rust](https://www.rust-lang.org/) is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.
+
+[Cargo](https://crates.io/) is the package manager for Rust.
+
+Cryptocurrencies:
+
+- [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) [[sv](https://crates.io/crates/sv)] — A Rust library for working with Bitcoin SV .
+- [ChainX](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
+- [Holochain](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build.
+- [Polkadot](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
+- [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) — Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
+- [rust-cardano](https://github.com/input-output-hk/rust-cardano) — Rust implementation of Cardano primitives, helpers, and related applications
+- [Solana](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
+
+Tutorials and Learning:
+
+- [Easy Rust](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
+- [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
+- [Programming Community Curated Resources for Learning Rust](https://hackr.io/tutorials/learn-rust) — A list of recommended resources voted by the programming community.
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+- [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
+- [Rustlings](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
 
 ## Programming Paradigms ##
 
