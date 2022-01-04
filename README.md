@@ -62,6 +62,7 @@ RESTful APIs:
 - Flask
   - [eve](https://github.com/pyeve/eve) - An open source Python REST API framework using Flask and MongoDB.
   - [flask-api](https://github.com/flask-api/flask-api) - Browsable Web APIs for Flask.
+- [FastAPI](https://fastapi.tiangolo.com/) - A web framework for building APIs.
 
 Game Development:
 
@@ -112,6 +113,10 @@ Frameworks and Libraries:
 - [vue](https://github.com/vuejs/vue) - A progressive framework for building user interfaces on the web.
 - [svelte](https://github.com/sveltejs/svelte) - A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
+API:
+
+- [axios](https://github.com/axios/axios) - A promise-based HTTP Client for node.js and the browser.
+
 Data Visualization:
 
 - [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
@@ -138,7 +143,9 @@ Articles, Tutorials and Reads:
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles on how JavaScript works under the hood.
 - [Web-workers for multi-threading](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Tutorial on adding multi-threading to JavaScript.
 - [this keyword](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Everything you need to know about the `this` keyword.
-- [JS Tutorials](https://hackr.io/tutorials/learn-javascript) - List of popular JavaScript tutorials
+- [JS Tutorials](https://hackr.io/tutorials/learn-javascript) - List of popular JavaScript tutorials.
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Guide on writing clean JavaScript.
+- [ECMAScript 6](http://es6-features.org/#Constants) - JavaScript syntax features.
 
 ### Solidity ###
 
@@ -189,8 +196,6 @@ Links and Tutorials:
 - [Guru99 Java Tutorials](https://www.guru99.com/java-tutorial.html)
 - [Google Java Style](https://google.github.io/styleguide/javaguide.html) - Google's coding standard for Java.
 - [Java Algorithms and Clients](https://algs4.cs.princeton.edu/code) - Java programs covering various algorithms and clients.
-
-### C# ###
 
 ### C++ ###
 
