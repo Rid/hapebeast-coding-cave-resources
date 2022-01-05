@@ -113,6 +113,7 @@ Frameworks and Libraries:
 - [react native](https://reactnative.dev/) - Framework that brings React's declarative UI framework to iOS and Android.
 - [vue](https://github.com/vuejs/vue) - Progressive framework for building user interfaces on the web.
 - [svelte](https://github.com/sveltejs/svelte) - Compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+- [Express.js](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
 API:
 
@@ -327,6 +328,26 @@ Check out [JavaScript](#javascript).
 
 ## Backend Development ##
 
+### **Databases** ###
+
+- [MySQL](https://www.mysql.com/)
+- [SQLite](https://sqlite.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Redis](https://redis.io/)
+- [phpMyAdmin](https://www.phpmyadmin.net/)
+- [MariaDB](https://mariadb.org/)
+
+### **Frameworks** ###
+
+Check out [Python](#python) and [Javascript](#javascript)
+
+- [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
+- [Flask](http://flask.pocoo.org/) - Microframework for Python.
+- [Express.js](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [Laravel](https://github.com/laravel/laravel) - Web application framework with expressive, elegant syntax.
+- [Ruby on Rails](https://github.com/rails/rails) - Web-application framework used to create database-backed web applications.
+
 ## Machine Learning ##
 
 ## Algorithms and Data Structures ##
@@ -362,6 +383,6 @@ Online Judges:
 
 ## Contributing ##
 
-I am by no means an expert on all or any of these topics, so if you would like to add to this list (or remove anything less relevant from the list), check out `CONTRIBUTING.md` or ping me on discord (`#! donutboy | HAPE`). HAPES TOGETHER STRONG! :banana:
+I am by no means an expert on all or any of these topics, so if you would like to add to this list (or remove anything less relevant from the list), check out [`CONTRIBUTING.md`](CONTRIBUTING.md) or ping me on discord (`#! donutboy | HAPE`). HAPES TOGETHER STRONG! :banana:
 
 This resource was inspired by [awesome](https://github.com/sindresorhus/awesome).
