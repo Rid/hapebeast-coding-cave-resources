@@ -26,10 +26,6 @@ Git is a free and open source distributed version control system designed to han
 
   - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 
-## For Beginners ##
-
-hi.
-
 ## Programming Languages ##
 
 ### **Python** ###
@@ -149,6 +145,34 @@ Articles, Tutorials and Reads:
 
 ### **Solidity** ###
 
+[Solidity](https://github.com/ethereum/solidity) is an object-oriented programming language for writing smart contracts on various blockchain platforms, most notably Ethereum.
+
+Official Links:
+
+- [Docs](https://docs.soliditylang.org/en/latest/) - Official documentation.
+- [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheatsheet from the official docs.
+- [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) - The Ethereum Wiki.
+- [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
+- [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
+- [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
+
+Development Frameworks:
+
+- [Hardhat](https://hardhat.org/) - Development environment to compile, deploy, test, and debug your Ethereum software.
+- [Brownie](https://github.com/eth-brownie/brownie) - Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
+- [Truffle](https://github.com/trufflesuite/truffle) - Development environment, testing framework and asset pipeline for Ethereum.
+
+Libraries:
+
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development.
+
+Tutorials:
+
+- [CryptoZombies](https://cryptozombies.io) - Interactive code school that teaches you to write smart contracts through building your own crypto-collectibles game.
+- [buildspace.so](https://buildspace.so/) - Hands-on Web3 course especially for beginners. It is completely free and you get an NFT on completion.
+- [cryptodevhub.io](https://cryptodevhub.io/) - Community-driven effort to unite like-minded people interested in Blockchain- and Crypto Technologies.
+- [Official Ethereum Tutorials](https://ethereum.org/en/developers/tutorials/) - Ethereum community tutorials by topic.
+
 ### **Java** ###
 
 [Java](https://www.java.com/en/) is a programming language and computing platform used to power a large share of today’s digital world, by providing the reliable platform on which many services and applications are built.
@@ -266,15 +290,19 @@ Tutorials and Learning:
 - [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
 - [Rustlings](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
 
+## Web 3.0 ##
+
+Chainlink
+
+## Machine Learning ##
+
 ## Programming Paradigms ##
 
 ### Object-Oriented Programming (OOP) ###
 
 ### Functional Programming ###
 
-## Machine Learning ##
-
-## Web 3.0 ##
+## Algorithms and Data Structures ##
 
 ## Contributing ##
 
