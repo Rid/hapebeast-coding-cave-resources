@@ -1,6 +1,6 @@
 # HAPEBEAST #coding-cave Resources #
 
-A curated list of resources for the HAPEBEAST `#coding-cave` channel
+A curated list of resources, libraries, frameworks and tools for the [HAPEBEAST](https://www.hapebeast.com/) `#coding-cave` discord channel.
 
 ![HAPE](images/hape-image.jfif)
 
@@ -36,56 +36,56 @@ Package Managers:
 
 - [pip](https://pip.pypa.io/en/stable/) - The package manager for Python.
   - [pip-tools](https://github.com/jazzband/pip-tools) - Tools for keeping your python packages up to date.
-  - [PyPI](https://pypi.org/) - A repository of software for the Python programming language.
+  - [PyPI](https://pypi.org/) - Repository of software for the Python programming language.
 - [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 
 Environment Management:
 
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
-- [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
+- [virtualenv](https://github.com/pypa/virtualenv) - Tool to create isolated Python environments.
 
 Web Frameworks:
 
 - [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
-- [Flask](http://flask.pocoo.org/) - A microframework for Python.
+- [Flask](http://flask.pocoo.org/) - Microframework for Python.
 
 RESTful APIs:
 
 - Django
-  - [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit to build web APIs.
-  - [django-tastypie](http://tastypieapi.org/) - A webservice API framework for Django.
+  - [django-rest-framework](http://www.django-rest-framework.org/) - Powerful and flexible toolkit to build web APIs.
+  - [django-tastypie](http://tastypieapi.org/) - Webservice API framework for Django.
 - Flask
-  - [eve](https://github.com/pyeve/eve) - An open source Python REST API framework using Flask and MongoDB.
+  - [eve](https://github.com/pyeve/eve) - Open source Python REST API framework using Flask and MongoDB.
   - [flask-api](https://github.com/flask-api/flask-api) - Browsable Web APIs for Flask.
-- [FastAPI](https://fastapi.tiangolo.com/) - A web framework for building APIs.
+- [FastAPI](https://fastapi.tiangolo.com/) - Web framework for building APIs.
 
 Game Development:
 
-- [Pygame](http://www.pygame.org/news.html) - Pygame is a set of Python modules designed for writing games.
-- [Arcade](https://api.arcade.academy/en/latest/) - Arcade is a modern Python framework for crafting games with compelling graphics and sound.
-- [Cocos2d](http://cocos2d.org/) - cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications.
+- [Pygame](http://www.pygame.org/news.html) - Set of Python modules designed for writing games.
+- [Arcade](https://api.arcade.academy/en/latest/) - Modern Python framework for crafting games with compelling graphics and sound.
+- [Cocos2d](http://cocos2d.org/) - Framework for building 2D games, demos, and other graphical/interactive applications.
 
 GUI Development:
 
+- [Tkinter](https://wiki.python.org/moin/TkInter) - Python's de-facto standard GUI package.
 - [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications..
 - [PyQt](https://riverbankcomputing.com/software/pyqt/intro) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
-- [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
 
 Data Visualisation:
 
-- [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
+- [Matplotlib](http://matplotlib.org/) - Python 2D plotting library.
 - [Seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using Matplotlib.
 
 Deep Learning:
 
-- [keras](https://github.com/keras-team/keras) - A high-level neural networks library and capable of running on top of either TensorFlow or Theano.
+- [keras](https://github.com/keras-team/keras) - High-level neural networks library and capable of running on top of either TensorFlow or Theano.
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [tensorflow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
 
 Testing:
 
-- [pytest](https://docs.pytest.org/en/latest/) - A mature full-featured Python testing tool.
+- [pytest](https://docs.pytest.org/en/latest/) - Mature full-featured Python testing tool.
 
 Tutorials and Guides:
 
@@ -99,7 +99,7 @@ Tutorials and Guides:
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is an object-oriented programming language commonly used within web browsers.
 
-[TypeScript](https://www.typescriptlang.org/) - A superset of the JavaScript language that compiles to JavaScript.
+[TypeScript](https://www.typescriptlang.org/) - Superset of the JavaScript language that compiles to JavaScript.
 
 Package Managers:
 
@@ -108,19 +108,19 @@ Package Managers:
 
 Frameworks and Libraries:
 
-- [angular](https://github.com/angular/angular) - A development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-- [react](https://reactjs.org/) - A JavaScript library for building user interfaces.
-- [react native](https://reactnative.dev/) - A framework that brings React's declarative UI framework to iOS and Android.
-- [vue](https://github.com/vuejs/vue) - A progressive framework for building user interfaces on the web.
-- [svelte](https://github.com/sveltejs/svelte) - A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+- [angular](https://github.com/angular/angular) - Development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+- [react](https://reactjs.org/) - JavaScript library for building user interfaces.
+- [react native](https://reactnative.dev/) - Framework that brings React's declarative UI framework to iOS and Android.
+- [vue](https://github.com/vuejs/vue) - Progressive framework for building user interfaces on the web.
+- [svelte](https://github.com/sveltejs/svelte) - Compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 API:
 
-- [axios](https://github.com/axios/axios) - A promise-based HTTP Client for node.js and the browser.
+- [axios](https://github.com/axios/axios) - Promise-based HTTP Client for node.js and the browser.
 
 Data Visualization:
 
-- [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
+- [d3](https://github.com/d3/d3) - JavaScript visualization library for HTML and SVG.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 Testing Frameworks:
@@ -131,12 +131,12 @@ Testing Frameworks:
 
 QA Tools:
 
-- [prettier](https://github.com/prettier/prettier) - An opinionated code formatter.
-- [ESLint](https://github.com/eslint/eslint) - A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+- [prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
+- [ESLint](https://github.com/eslint/eslint) - Tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
 
 Articles, Tutorials and Reads:
 
-- [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - A series of articles on how JavaScript works under the hood.
+- [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial) - Series of articles on how JavaScript works under the hood.
 - [Web-workers for multi-threading](https://www.loginradius.com/blog/async/adding-multi-threading-to-javascript-using-web-workers/) - Tutorial on adding multi-threading to JavaScript.
 - [this keyword](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Everything you need to know about the `this` keyword.
 - [JS Tutorials](https://hackr.io/tutorials/learn-javascript) - List of popular JavaScript tutorials.
@@ -164,7 +164,7 @@ Development Frameworks:
 
 Libraries:
 
-- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - A library for secure smart contract development.
+- [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) - Library for secure smart contract development.
 
 Tutorials:
 
@@ -192,11 +192,11 @@ REST Frameworks:
 Frameworks:
 
 - [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
-- [JUnit](https://junit.org/junit5/) - A common testing framework.
+- [JUnit](https://junit.org/junit5/) - Common testing framework.
 
 QA Tools:
 
-- [Mockito](https://github.com/mockito/mockito) - A mocking framework that lets you write tests with a clean and simple API.
+- [Mockito](https://github.com/mockito/mockito) - Mocking framework that lets you write tests with a clean and simple API.
 - [Clover](https://www.atlassian.com/software/clover) - Relies on source-code instrumentation instead of bytecode instrumentation.
 - [Cobertura](https://cobertura.github.io/cobertura/) - Relies on offline (or static) bytecode instrumentation and class loading to collect code coverage metrics. (GPL-2.0-only).
 
@@ -206,7 +206,7 @@ Caching:
 
 Build:
 
-- [Apache Maven](https://maven.apache.org) - A declarative build and dependency management that favors convention over configuration.
+- [Apache Maven](https://maven.apache.org) - Declarative build and dependency management that favors convention over configuration.
 - [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
 Game Development:
@@ -227,13 +227,13 @@ Links and Tutorials:
 
 Standard Libraries:
 
-- [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
+- [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - Collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
 - [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
 
 Compilers:
 
-- [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team.
+- [Clang](http://clang.llvm.org/) - C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team.
 - [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C++11/14/1z C11 and OpenMP.
 - [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 - [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
@@ -244,12 +244,12 @@ Build Systems:
 
 Frameworks:
 
-- [Boost](https://github.com/boostorg) - A large collection of generic C++ libraries. [website](http://www.boost.org/)
+- [Boost](https://github.com/boostorg) - Large collection of generic C++ libraries. [website](http://www.boost.org/)
 
 Graphics:
 
-- [DirectXTK](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++.
-- [GLFW](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library.
+- [DirectXTK](https://github.com/Microsoft/DirectXTK) - Collection of helper classes for writing DirectX 11.x code in C++.
+- [GLFW](https://github.com/glfw/glfw) - Simple, cross-platform OpenGL wrangling library.
 
 Multimedia:
 
@@ -264,7 +264,7 @@ Links and Tutorials:
 - [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 - [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
 - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
-- [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
+- [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - User ranked online tutorial bank site displaying multiple courses to learn C++ from.
 
 ### **Rust** ###
 
@@ -286,9 +286,9 @@ Tutorials and Learning:
 
 - [Easy Rust](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
 - [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
-- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — A collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
-- [Rust for professionals](https://overexact.com/rust-for-professionals/) — A quick introduction to Rust for experienced software developers.
-- [Rustlings](https://github.com/rust-lang/rustlings) — small exercises to get you used to reading and writing Rust code
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+- [Rust for professionals](https://overexact.com/rust-for-professionals/) — Quick introduction to Rust for experienced software developers.
+- [Rustlings](https://github.com/rust-lang/rustlings) — Small exercises to get you used to reading and writing Rust code
 
 ## Web 3.0 ##
 
