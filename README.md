@@ -1,4 +1,4 @@
-# :banana: HAPEBEAST #coding-cave Resources #
+# HAPEBEAST :banana: #coding-cave Resources #
 
 A curated list of resources, libraries, frameworks and tools for the [HAPEBEAST](https://www.hapebeast.com/) `#coding-cave` discord channel.
 
@@ -6,7 +6,7 @@ A curated list of resources, libraries, frameworks and tools for the [HAPEBEAST]
 
 ## Preface ##
 
-This is a list of useful resources for software development and programming in general. These resources are targetted at the most common questions and topics in the `#coding-cave` channel. I've also added resources that I think are the are most commonly used in the industry and/or are useful for development in the software industry. I've tried to keep the list concise and precise for less experienced programmers. For more resources on even more advanced topics, checkout [awesome](https://github.com/sindresorhus/awesome).
+This is a list of useful resources for software development and programming in general. These resources are targetted at the most common questions and topics in the `#coding-cave` channel. I've also added resources that I think are the are most commonly used in the industry and/or are useful for development in the software industry. I've tried to keep the list concise and precise for beginners to intermediate programmers. For more resources on even more advanced topics, checkout [awesome](https://github.com/sindresorhus/awesome).
 
 I hope you find something useful that helps you in developing your career or finishing your personal projects!
 
@@ -290,7 +290,42 @@ Tutorials and Learning:
 
 ## Web 3.0 ##
 
-Chainlink
+Check out [Solidity](#solidity) and [Rust](#rust).
+
+## Frontend Web Development ##
+
+Check out [JavaScript](#javascript).
+
+### **CSS** ###
+
+- [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+- [MUI](https://github.com/muicss/mui) - Lightweight CSS framework that follows Google's Material Design guidelines.
+- [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
+- [Sass](http://sass-lang.com/) - The most mature, stable, and powerful professional grade CSS extension language in the world.
+
+### **Angular** ###
+
+- [UI Bootstrap](https://github.com/angular-ui/bootstrap/) - Native AngularJS (Angular) directives for Bootstrap.
+- [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices.
+- [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
+- [Mobile Angular UI](https://github.com/mcasimir/mobile-angular-ui) - Angular & Bootstrap 3 for Mobile web and applications.
+
+### **React** ###
+
+- [Elemental UI](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
+- [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 3 components built with React.
+- [React Color](https://github.com/casesandberg/react-color) - Color Pickers from Sketch, Photoshop, Chrome & more.
+- [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design.
+- [react-router](https://github.com/rackt/react-router) - A complete routing solution for React.js.
+- [React in patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
+
+### **Vue** ###
+
+- [element](http://element.eleme.io) - A Vue.js 2.0 UI Toolkit for Web.
+- [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
+- [Mint UI](https://mint-ui.github.io) - Mobile UI elements for Vue.js.
+
+## Backend Development ##
 
 ## Machine Learning ##
 
