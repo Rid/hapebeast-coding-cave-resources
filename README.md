@@ -1,4 +1,4 @@
-# HAPEBEAST #coding-cave Resources #
+# :banana: HAPEBEAST #coding-cave Resources #
 
 A curated list of resources, libraries, frameworks and tools for the [HAPEBEAST](https://www.hapebeast.com/) `#coding-cave` discord channel.
 
@@ -153,7 +153,6 @@ Official Links:
 - [Cheatsheet](https://docs.soliditylang.org/en/latest/cheatsheet.html) - Cheatsheet from the official docs.
 - [Ethereum Wiki](https://github.com/ethereum/wiki/wiki) - The Ethereum Wiki.
 - [Ethereum Stackexchange](https://ethereum.stackexchange.com/) - Ethereum's Stackexchange board.
-- [Gitter](https://gitter.im/ethereum/solidity/) - Gitter channel.
 - [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples) - Loose collection of example code.
 
 Development Frameworks:
@@ -194,12 +193,6 @@ Frameworks:
 - [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
 - [JUnit](https://junit.org/junit5/) - Common testing framework.
 
-QA Tools:
-
-- [Mockito](https://github.com/mockito/mockito) - Mocking framework that lets you write tests with a clean and simple API.
-- [Clover](https://www.atlassian.com/software/clover) - Relies on source-code instrumentation instead of bytecode instrumentation.
-- [Cobertura](https://cobertura.github.io/cobertura/) - Relies on offline (or static) bytecode instrumentation and class loading to collect code coverage metrics. (GPL-2.0-only).
-
 Caching:
 
 - [Ehcache](http://www.ehcache.org) - Distributed general-purpose cache.
@@ -214,6 +207,12 @@ Game Development:
 - [FXGL](https://almasb.github.io/FXGL/) - JavaFX Game Development Framework.
 - [libGDX](https://libgdx.com) - All-round cross-platform, high-level framework.
 - [LWJGL](https://www.lwjgl.org) - Robust framework that abstracts libraries like OpenGL/CL/AL.
+
+QA Tools:
+
+- [Mockito](https://github.com/mockito/mockito) - Mocking framework that lets you write tests with a clean and simple API.
+- [Clover](https://www.atlassian.com/software/clover) - Relies on source-code instrumentation instead of bytecode instrumentation.
+- [Cobertura](https://cobertura.github.io/cobertura/) - Relies on offline (or static) bytecode instrumentation and class loading to collect code coverage metrics. (GPL-2.0-only).
 
 Links and Tutorials:
 
@@ -262,7 +261,6 @@ Links and Tutorials:
 - [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
 - [google-styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
 - [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
-- [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
 - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 - [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - User ranked online tutorial bank site displaying multiple courses to learn C++ from.
 
@@ -296,16 +294,39 @@ Chainlink
 
 ## Machine Learning ##
 
-## Programming Paradigms ##
-
-### Object-Oriented Programming (OOP) ###
-
-### Functional Programming ###
-
 ## Algorithms and Data Structures ##
+
+Websites:
+
+- [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
+- [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
+- [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
+- [CP-Algorithms](https://cp-algorithms.com/) - Algorithms and data structures especially popular in field of competitive programming.
+- [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
+- [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
+- [Programiz](https://www.programiz.com/dsa) - Easy to follow tutorials on data structures and algorithms along with suitable examples.
+- [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
+- [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/)
+
+Courses:
+
+- [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministred by Tomas Cormen and Devin Balkcom.
+- [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) - Well explained algorithms.
+- [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
+- [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well explained introduction to algorithms.
+
+Interview Preparation:
+
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+
+Online Judges:
+
+- [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
+- [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
 
 ## Contributing ##
 
-I am by no means an expert on all or any of these topics, so if you would like to add to this list (or remove anything less relevant from the list), check out `CONTRIBUTING.md` or ping me on discord (`#! donutboy | HAPEBEAST`). HAPES TOGETHER STRONG!
+I am by no means an expert on all or any of these topics, so if you would like to add to this list (or remove anything less relevant from the list), check out `CONTRIBUTING.md` or ping me on discord (`#! donutboy | HAPE`). HAPES TOGETHER STRONG! :banana:
 
 This resource was inspired by [awesome](https://github.com/sindresorhus/awesome).
