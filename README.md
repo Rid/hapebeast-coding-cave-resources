@@ -32,7 +32,7 @@ hi.
 
 ## Programming Languages ##
 
-### Python ###
+### **Python** ###
 
 [Python](https://www.python.org/) is an interpreted, object-oriented, high-level programming language with dynamic semantics.
 
@@ -99,11 +99,16 @@ Tutorials and Guides:
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
 
-### JavaScript ###
+### **JavaScript** ###
 
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is an object-oriented programming language commonly used within web browsers.
 
 [TypeScript](https://www.typescriptlang.org/) - A superset of the JavaScript language that compiles to JavaScript.
+
+Package Managers:
+
+- [npm](https://docs.npmjs.com/cli/v8/commands/npm) - JavaScript Package Manager.
+- [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
 Frameworks and Libraries:
 
@@ -121,11 +126,6 @@ Data Visualization:
 
 - [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
-
-Package Managers:
-
-- [npm](https://docs.npmjs.com/cli/v8/commands/npm) - JavaScript Package Manager.
-- [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
 Testing Frameworks:
 
@@ -147,9 +147,9 @@ Articles, Tutorials and Reads:
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Guide on writing clean JavaScript.
 - [ECMAScript 6](http://es6-features.org/#Constants) - JavaScript syntax features.
 
-### Solidity ###
+### **Solidity** ###
 
-### Java ###
+### **Java** ###
 
 [Java](https://www.java.com/en/) is a programming language and computing platform used to power a large share of today’s digital world, by providing the reliable platform on which many services and applications are built.
 
@@ -197,9 +197,52 @@ Links and Tutorials:
 - [Google Java Style](https://google.github.io/styleguide/javaguide.html) - Google's coding standard for Java.
 - [Java Algorithms and Clients](https://algs4.cs.princeton.edu/code) - Java programs covering various algorithms and clients.
 
-### C++ ###
+### **C++** ###
 
-### Rust ###
+[C++](https://isocpp.org/) is a general-purpose programming language created as an extension of the C programming language, or "C with Classes".
+
+Standard Libraries:
+
+- [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - A collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
+- [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
+- [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
+
+Compilers:
+
+- [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team.
+- [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C++11/14/1z C11 and OpenMP.
+- [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
+- [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
+
+Build Systems:
+
+- [CMake](https://cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method.
+
+Frameworks:
+
+- [Boost](https://github.com/boostorg) - A large collection of generic C++ libraries. [website](http://www.boost.org/)
+
+Graphics:
+
+- [DirectXTK](https://github.com/Microsoft/DirectXTK) - A collection of helper classes for writing DirectX 11.x code in C++.
+- [GLFW](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library.
+
+Multimedia:
+
+- [SDL](http://www.libsdl.org/)- Simple DirectMedia Layer.
+- [SFML](https://github.com/SFML/SFML)- Simple and Fast Multimedia Library.
+
+Links and Tutorials:
+
+- [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
+- [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) - The Chromium Projects > For Developers > Coding Style > C++ Dos and Don'ts.
+- [google-styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects.
+- [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+- [C++ by Example](http://www.cbyexample.com/) - Learn C++ by Example.
+- [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+- [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
+
+### **Rust** ###
 
 [Rust](https://www.rust-lang.org/) is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.
 
