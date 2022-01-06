@@ -326,6 +326,13 @@ Check out [JavaScript](#javascript).
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
 - [Mint UI](https://mint-ui.github.io) - Mobile UI elements for Vue.js.
 
+### **Tutorials and Links** ###
+
+- [Official MDN Guides](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
+- [W3Schools](https://www.w3schools.com/whatis/)
+- [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/)
+- [Real Python](https://realpython.com/tutorials/front-end/)
+
 ## Backend Development ##
 
 ### **Databases** ###
@@ -338,7 +345,7 @@ Check out [JavaScript](#javascript).
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [MariaDB](https://mariadb.org/)
 
-### **Frameworks** ###
+### **Backend Frameworks** ###
 
 Check out [Python](#python) and [Javascript](#javascript)
 
@@ -346,9 +353,7 @@ Check out [Python](#python) and [Javascript](#javascript)
 - [Flask](http://flask.pocoo.org/) - Microframework for Python.
 - [Express.js](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [Laravel](https://github.com/laravel/laravel) - Web application framework with expressive, elegant syntax.
-- [Ruby on Rails](https://github.com/rails/rails) - Web-application framework used to create database-backed web applications.
-
-## Machine Learning ##
+- [Ruby on Rails](https://github.com/rails/rails) - Web-application framework used to create database-backend web applications.
 
 ## Algorithms and Data Structures ##
 
