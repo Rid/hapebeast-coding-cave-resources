@@ -12,6 +12,29 @@ I hope you find something useful that helps you in developing your career or fin
 
 Also, if your havent checked out the [pinned Notion page](https://hapebeast.notion.site/hapebeast/HAPEBEAST-coding-cave-28adceeed4c64dac85ccdb36216f81f9) yet, please do. It has very helpful and beginner friendly guides on various topics written by other HAPES.
 
+## Contents ##
+
+- [Git](#git)
+- [Programming Languages](#programming-languages)
+  - [Python](#python)
+  - [JavaScript](#javascript)
+  - [Solidity](#solidity)
+  - [Java](#java)
+  - [C++](#c)
+  - [Rust](#rust)
+- [Web 3.0](#web-30)
+- [Frontend Web Development](#frontend-web-development)
+  - [CSS](#css)
+  - [Angular](#angular)
+  - [React](#react)
+  - [Vue](#vue)
+  - [Tutorials and Links](#tutorials-and-links)
+- [Backend Development](#backend-development)
+  - [Databases](#databases)
+  - [Backend Frameworks](#backend-frameworks)
+- [Algorithms and Data Structure](#algorithms-and-data-structures)
+- [Contributing](#contributing)
+
 ## Git ##
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
