@@ -24,7 +24,7 @@ If you would like to remove a rule from the check, please provide valid reasonin
 
 Extracts links from markdown texts and checks whether each link is alive (`200 OK`) or dead. This repository uses [markdown-link-check](https://github.com/tcort/markdown-link-check).
 
-To exclude links from the markdown link checker, use the following line directly above the line that throws the link error:
+To exclude valid links that the link checker thinks are invalid, use the following line directly above the line that throws the link error:
 
 ```markdown
 <!-- markdown-link-check-disable-next-line -->
