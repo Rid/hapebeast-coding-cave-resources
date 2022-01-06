@@ -58,7 +58,7 @@ Git is a free and open source distributed version control system designed to han
 Package Managers:
 
 - [pip](https://pip.pypa.io/en/stable/) - The package manager for Python.
-  - [pip-tools](https://github.com/jazzband/pip-tools) - Tools for keeping your python packages up to date.
+  - [pip-tools](https://github.com/jazzband/pip-tools) - Tools for keeping your Python packages up to date.
   - [PyPI](https://pypi.org/) - Repository of software for the Python programming language.
 - [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
@@ -92,7 +92,7 @@ Game Development:
 GUI Development:
 
 - [Tkinter](https://wiki.python.org/moin/TkInter) - Python's de-facto standard GUI package.
-- [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications..
+- [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
 - [PyQt](https://riverbankcomputing.com/software/pyqt/intro) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
 
 Data Visualisation:
@@ -112,11 +112,11 @@ Testing:
 
 Tutorials and Guides:
 
-- [Full Stack Python](https://www.fullstackpython.com/)
-- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-- [Real Python](https://realpython.com)
-- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
-- [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+- [Full Stack Python](https://www.fullstackpython.com/) - Open source book that explains a wide range of technical concepts.
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/) - Basic tips and tricks for beginners and advanced developers.
+- [Real Python](https://realpython.com) - Collection of tutorials by Python experts.
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) - Best practices on the installation, configuration, and usage of Python on a daily basis.
+- [Ultimate Python study guide](https://github.com/huangsam/ultimate-python) - Hands-on resources for learning and revisiting Python concepts.
 
 ### **JavaScript** ###
 
@@ -242,7 +242,7 @@ QA Tools:
 
 Links and Tutorials:
 
-- [Guru99 Java Tutorials](https://www.guru99.com/java-tutorial.html)
+- [Guru99 Java Tutorials](https://www.guru99.com/java-tutorial.html) - Java tutorial for beginners is taught in a practical goal-oriented way.
 - [Google Java Style](https://google.github.io/styleguide/javaguide.html) - Google's coding standard for Java.
 - [Java Algorithms and Clients](https://algs4.cs.princeton.edu/code) - Java programs covering various algorithms and clients.
 
@@ -255,7 +255,7 @@ Standard Libraries:
 <!-- markdown-link-check-disable-next-line -->
 - [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - Collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
-- [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
+- [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee.
 
 Compilers:
 
@@ -270,7 +270,7 @@ Build Systems:
 
 Frameworks:
 
-- [Boost](https://github.com/boostorg) - Large collection of generic C++ libraries. [website](http://www.boost.org/)
+- [Boost](https://github.com/boostorg) - Large collection of generic C++ libraries.
 
 Graphics:
 
@@ -303,18 +303,18 @@ Cryptocurrencies:
 - [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) — A Rust library for working with Bitcoin SV .
 - [ChainX](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 - [Holochain](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build.
-- [Polkadot](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
+- [Polkadot](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security.
 - [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) — Library with support for de/serialization, parsing and executing on data structures and network messages related to Bitcoin.
-- [rust-cardano](https://github.com/input-output-hk/rust-cardano) — Rust implementation of Cardano primitives, helpers, and related applications
+- [rust-cardano](https://github.com/input-output-hk/rust-cardano) — Rust implementation of Cardano primitives, helpers, and related applications.
 - [Solana](https://github.com/solana-labs/solana) — Incredibly fast, highly scalable blockchain using Proof-of-History.
 
 Tutorials and Learning:
 
 - [Easy Rust](https://github.com/Dhghomon/easy_rust) - Learn Rust in easy English.
-- [exercism.org](https://exercism.org/tracks/rust) — programming exercises that help you learn new concepts in Rust.
+- [exercism.org](https://exercism.org/tracks/rust) — Programming exercises that help you learn new concepts in Rust.
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) — Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 - [Rust for professionals](https://overexact.com/rust-for-professionals/) — Quick introduction to Rust for experienced software developers.
-- [Rustlings](https://github.com/rust-lang/rustlings) — Small exercises to get you used to reading and writing Rust code
+- [Rustlings](https://github.com/rust-lang/rustlings) — Small exercises to get you used to reading and writing Rust code.
 
 ## Web 3.0 ##
 
@@ -355,26 +355,25 @@ Check out [JavaScript](#javascript).
 
 ### **Tutorials and Links** ###
 
-- [Official MDN Guides](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
-- [W3Schools](https://www.w3schools.com/whatis/)
-- [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/)
-- [Real Python](https://realpython.com/tutorials/front-end/)
+- [Official MDN Guides](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer) - Documentation repository and learning resource for web developers.
+- [W3Schools](https://www.w3schools.com/whatis/) - Tutorials on CSS, HTML and JavaScript.
+- [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/) - Article on how to master Frontend Development.
 
 ## Backend Development ##
 
 ### **Databases** ###
 
-- [MySQL](https://www.mysql.com/)
-- [SQLite](https://sqlite.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [Redis](https://redis.io/)
-- [phpMyAdmin](https://www.phpmyadmin.net/)
-- [MariaDB](https://mariadb.org/)
+- [MySQL](https://www.mysql.com/) - Popular open-source relational database management system.
+- [SQLite](https://sqlite.org/) - Embedded relational database management system contained in a C library.
+- [PostgreSQL](https://www.postgresql.org/) - Open-source relational database management system emphasizing extensibility and SQL compliance.
+- [MongoDB](https://www.mongodb.com/) - Cross-platform document-oriented database program.
+- [Redis](https://redis.io/) - In-memory data structure store, used as a distributed, in-memory key–value database, cache and message broker.
+- [phpMyAdmin](https://www.phpmyadmin.net/) - Free and open source administration tool for MySQL and MariaDB.
+- [MariaDB](https://mariadb.org/) - Community-developed, commercially supported fork of the MySQL relational database management system.
 
 ### **Backend Frameworks** ###
 
-Check out [Python](#python) and [Javascript](#javascript)
+Check out [Python](#python) and [JavaScript](#javascript)
 
 - [Django](https://www.djangoproject.com/) - The most popular web framework in Python.
 - [Flask](http://flask.pocoo.org/) - Microframework for Python.
@@ -394,7 +393,7 @@ Websites:
 - [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
 - [Programiz](https://www.programiz.com/dsa) - Easy to follow tutorials on data structures and algorithms along with suitable examples.
 - [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
-- [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/)
+- [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - Information and examples of common data structures.
 
 Courses:
 
@@ -405,12 +404,12 @@ Courses:
 
 Interview Preparation:
 
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Free and curated technical interview preparation materials for busy engineers.
+- [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet) - Quick guide and reference for further research on data structures and algorithms.
 
 Online Judges:
 
-- [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
+- [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges.
 - [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
 
 ## Contributing ##
