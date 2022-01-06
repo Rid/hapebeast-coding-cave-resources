@@ -175,8 +175,10 @@ Tutorials:
 
 ### **Java** ###
 
+<!-- markdown-link-check-disable-next-line -->
 [Java](https://www.java.com/en/) is a programming language and computing platform used to power a large share of today’s digital world, by providing the reliable platform on which many services and applications are built.
 
+<!-- markdown-link-check-disable-next-line -->
 [Java Development Kit (JDK)](https://java.com/en/download/help/develop.html) - Includes the Java Runtime Environment, the Java compiler and the Java APIs.
 
 GUI:
@@ -227,6 +229,7 @@ Links and Tutorials:
 
 Standard Libraries:
 
+<!-- markdown-link-check-disable-next-line -->
 - [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - Collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself.
 - [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
 - [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
@@ -269,11 +272,12 @@ Links and Tutorials:
 
 [Rust](https://www.rust-lang.org/) is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency.
 
+<!-- markdown-link-check-disable-next-line -->
 [Cargo](https://crates.io/) is the package manager for Rust.
 
 Cryptocurrencies:
 
-- [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) [[sv](https://crates.io/crates/sv)] — A Rust library for working with Bitcoin SV .
+- [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) — A Rust library for working with Bitcoin SV .
 - [ChainX](https://github.com/chainx-org/ChainX) — Fully Decentralized Interchain Crypto Asset Management on Polkadot.
 - [Holochain](https://github.com/holochain/holochain) — Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build.
 - [Polkadot](https://github.com/paritytech/polkadot) — Heterogeneous multi‑chain technology with pooled security
@@ -361,7 +365,7 @@ Websites:
 
 - [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
 - [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
-- [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 - [CP-Algorithms](https://cp-algorithms.com/) - Algorithms and data structures especially popular in field of competitive programming.
 - [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
 - [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
