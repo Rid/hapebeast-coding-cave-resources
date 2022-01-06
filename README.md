@@ -117,6 +117,7 @@ Tutorials and Guides:
 - [Real Python](https://realpython.com)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+- [Code Academy, free Python courses](https://www.codecademy.com/catalog/language/python) - This course is a great introduction to both fundamental programming concepts and the Python programming language.
 
 ### **JavaScript** ###
 
@@ -166,6 +167,7 @@ Articles, Tutorials and Reads:
 - [JS Tutorials](https://hackr.io/tutorials/learn-javascript) - List of popular JavaScript tutorials.
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Guide on writing clean JavaScript.
 - [ECMAScript 6](http://es6-features.org/#Constants) - JavaScript syntax features.
+- [Code Academy, free JavaScript courses](https://www.codecademy.com/catalog/language/javascript) - You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax.
 
 ### **Solidity** ###
 
@@ -245,6 +247,7 @@ Links and Tutorials:
 - [Guru99 Java Tutorials](https://www.guru99.com/java-tutorial.html)
 - [Google Java Style](https://google.github.io/styleguide/javaguide.html) - Google's coding standard for Java.
 - [Java Algorithms and Clients](https://algs4.cs.princeton.edu/code) - Java programs covering various algorithms and clients.
+- [Code Academy, free Java courses](https://www.codecademy.com/catalog/language/java) - In this course you’ll be exposed to fundamental programming concepts, including object-oriented programming (OOP) using Java.
 
 ### **C++** ###
 
@@ -290,6 +293,7 @@ Links and Tutorials:
 - [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
 - [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 - [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - User ranked online tutorial bank site displaying multiple courses to learn C++ from.
+- [Code Academy, free C++ courses](https://www.codecademy.com/catalog/language/c-plus-plus) - This course will start with the fundamental programming concepts before digging deeper into the more advanced C++ topics.
 
 ### **Rust** ###
 
@@ -330,6 +334,7 @@ Check out [JavaScript](#javascript).
 - [MUI](https://github.com/muicss/mui) - Lightweight CSS framework that follows Google's Material Design guidelines.
 - [Bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes).
 - [Sass](http://sass-lang.com/) - The most mature, stable, and powerful professional grade CSS extension language in the world.
+- [Code Academy, free CSS & HTML courses](https://www.codecademy.com/catalog/language/html-css) - You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts.
 
 ### **Angular** ###
 
@@ -337,6 +342,7 @@ Check out [JavaScript](#javascript).
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices.
 - [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
 - [Mobile Angular UI](https://github.com/mcasimir/mobile-angular-ui) - Angular & Bootstrap 3 for Mobile web and applications.
+- [Code Academy, free AngularJS courses](https://www.codecademy.com/learn/learn-angularjs) - Apply your understanding of HTML and JavaScript to learn how to build single-page web applications with this popular JavaScript framework.
 
 ### **React** ###
 
@@ -346,12 +352,14 @@ Check out [JavaScript](#javascript).
 - [material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design.
 - [react-router](https://github.com/rackt/react-router) - A complete routing solution for React.js.
 - [React in patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
+- [Code Academy, free ReactJS courses](https://www.codecademy.com/learn/react-101) - You’ll develop a strong understanding of React’s most essential concepts: JSX, class and function components, props, state, lifecycle methods, and hooks.
 
 ### **Vue** ###
 
 - [element](http://element.eleme.io) - A Vue.js 2.0 UI Toolkit for Web.
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js.
 - [Mint UI](https://mint-ui.github.io) - Mobile UI elements for Vue.js.
+- [Code Academy, free Vue courses](https://www.codecademy.com/learn/learn-vue-js) - Upon completing the lessons in Learn Vue.js, you will be able to create and style forms that handle real-world, dynamic data.
 
 ### **Tutorials and Links** ###
 
@@ -359,6 +367,7 @@ Check out [JavaScript](#javascript).
 - [W3Schools](https://www.w3schools.com/whatis/)
 - [From Zero to Front-end Hero](https://www.freecodecamp.org/news/from-zero-to-front-end-hero-part-1-7d4f7f0bff02/)
 - [Real Python](https://realpython.com/tutorials/front-end/)
+- [Code Academy, hundreds of free tutorials](https://www.codecademy.com)
 
 ## Backend Development ##
 
@@ -402,6 +411,7 @@ Courses:
 - [MIT - 6-006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) - Well explained algorithms.
 - [MIT - 6-046j](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Similar to the previous one, but with different algorithms.
 - [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well explained introduction to algorithms.
+- [Code Academy, Algorithms in Java](https://www.codecademy.com/learn/java-algorithms) - This course is all about algorithms! We’ll start by looking into the concept of recursion — what does it mean for a method to call itself?
 
 Interview Preparation:
 
