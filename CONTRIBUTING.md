@@ -10,6 +10,20 @@ Please include a brief description of what you changed as the description of the
 
 Once your PR is ready, please request a review from me (`@donutboy929`).
 
+## Formatting
+
+- Your entry here should include a short description about the resource.
+  - ✅ `- [iOS](…) - Mobile operating system for Apple phones and tablets.`
+  - ✅ `- [Framer](…) - Prototyping interactive UI designs.`
+  - ❌ `- [iOS](…) - Resources and tools for iOS development.`
+  - ❌ `- [Framer](…)`
+  - ❌ `- [Framer](…) - prototyping interactive UI designs`
+- New entries should be added at the bottom of the appropriate category.
+- Has proper spelling/grammar.
+- The link and description are separated by a dash. Example: `- [Framer](…) - Prototyping interactive UI designs.`
+- The description starts with an uppercase character and ends with a period.
+- Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
+
 ## Checks
 
 Your pull requests (PR) will have to pass the following checks before they can be merged.
