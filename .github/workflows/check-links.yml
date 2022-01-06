@@ -1,0 +1,23 @@
+name: Check Markdown Links
+
+on:
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: markdown-link-check
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.13
+        with:
+          # Use yes to enable markdown-link-check quiet mode which only list errors.
+          use-quiet-mode: 'yes'
+          # Use yes to only check for modified markdown files instead of checking all markdown files.
+          check-modified-files-only: 'yes'
+          # Use this to specify the base branch against which the action finds the modified files.
+          base-branch: 'main'
