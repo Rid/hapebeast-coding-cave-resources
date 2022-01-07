@@ -345,7 +345,6 @@ Check out [JavaScript](#javascript).
 - [Code Academy, free AngularJS courses](https://www.codecademy.com/learn/learn-angularjs) - Learn how to build single-page web applications with this popular JavaScript framework.
 - [Angular with ethers](https://github.com/0xpc88/Angular-web3-ethers-starter) - A  starting point for showing how to interact with an Ethereum smart contract from a website.
 
-
 ### **React** ###
 
 - [Elemental UI](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
