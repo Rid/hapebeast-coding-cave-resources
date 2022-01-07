@@ -337,6 +337,7 @@ Check out [JavaScript](#javascript).
 - [Angular Style Guide](https://github.com/johnpapa/angular-styleguide) - A starting point for Angular development teams to provide consistency through good practices.
 - [ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS.
 - [Mobile Angular UI](https://github.com/mcasimir/mobile-angular-ui) - Angular & Bootstrap 3 for Mobile web and applications.
+- [Angular with ethers](https://github.com/0xpc88/Angular-web3-ethers-starter) - A  starting point for showing how to interact with an Ethereum smart contract from a website.
 
 ### **React** ###
 
